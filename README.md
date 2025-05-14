@@ -8,3 +8,4 @@ Andrew Boyle Project Portfolio
 * Built and evaluated classification models to predict recipe ratings (1–5 scale)
 * Used techniques such as TF-IDF, PCA, and Random Forests to improve performance
 * Presented findings with interactive visualizations and concise executive summary
+* https://aboyle3100.github.io/recipe-analysis/

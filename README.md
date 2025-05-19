@@ -15,3 +15,6 @@ Andrew Boyle Project Portfolio
 * Trained and evaluated multiple classification models  to predict loan risk.
 * Evaluated models by considering metrics like F1 Score and Accuracy.
 * Used Streamlit app system to create an easy to use form.
+
+# [Continuous Time Markov Regime Switching for Ethereum / USDC Liquidity Pool Analysis](https://github.com/aboyle3100/Optimal-Liquidity-Pool-Range/tree/main/uniswap_analysis)
+

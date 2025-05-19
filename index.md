@@ -22,7 +22,7 @@ layout: home
 * Evaluated models by considering metrics like F1 Score and Accuracy.
 * Used Streamlit app system to create an easy to use form.
 
-# [Loss Triangle Analysis for IBNR Estimation Auto Claims](Loss_Triangles_IBNR.html)
+# [Loss Triangle Analysis for IBNR Estimation Auto Claims](IBNR_analysis.pdf)
 * Developed a data pipeline and visualization tool to analyze insurance claim development using loss triangles.
 * Implemented the Chain-Ladder method to estimate Incurred But Not Reported (IBNR) claims based on historical development patterns.
 * Visualized cumulative paid losses and developed development factor matrices to forecast future liabilities.

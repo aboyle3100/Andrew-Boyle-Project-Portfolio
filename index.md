@@ -6,7 +6,7 @@ Hello! I'm a data-driven thinker with a background in Mathematics and Economics,
 
 Here, you'll find interactive notebooks, visual explorations, and end-to-end projects in areas such as machine learning, natural language processing, and financial modeling. Whether it's uncovering patterns in complex datasets or building tools to support decision-making, my goal is to create work that’s both insightful and impactful.
 
-# [Continuous Time Markov Regime Switching for Ethereum / USDC Liquidity Pool Analysis](https://github.com/aboyle3100/Optimal-Liquidity-Pool-Range/tree/main/uniswap_analysis)
+# [Continuous Time Markov Regime Switching for Ethereum / USDC Liquidity Pool Analysis](visualizations/liquidity_analysis.pdf)
 * Extended Black Scholes formula for asset pricing to Ethereum to evaluate liquidity pool ranges.
 * Applied Markov Switching Model to simulate regime changes in changes in asset price.
 * Found best liquidity pool range to be between 2100 and 2800 ETH / USDC which would produce 6% APY.
@@ -26,7 +26,7 @@ Here, you'll find interactive notebooks, visual explorations, and end-to-end pro
 * Evaluated models by considering metrics like F1 Score and Accuracy.
 * Used Streamlit app system to create an easy to use form.
 
-# [Loss Triangle Analysis for IBNR Estimation Auto Claims](IBNR_analysis.pdf)
+# [Loss Triangle Analysis for IBNR Estimation Auto Claims](visualizations/IBNR_analysis.pdf)
 * Developed a data pipeline and visualization tool to analyze insurance claim development using loss triangles.
 * Implemented the Chain-Ladder method to estimate Incurred But Not Reported (IBNR) claims based on historical development patterns.
 * Visualized cumulative paid losses and developed development factor matrices to forecast future liabilities.

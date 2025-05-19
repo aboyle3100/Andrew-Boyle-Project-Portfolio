@@ -24,3 +24,9 @@ layout: home
 * Evaluated models by considering metrics like F1 Score and Accuracy.
 * Used Streamlit app system to create an easy to use form.
 
+# Loss Triangle Analysis for IBNR Estimation Auto Claims (Python) -- 
+* Developed a data pipeline and visualization tool to analyze insurance claim development using loss triangles.
+* Implemented the Chain-Ladder method to estimate Incurred But Not Reported (IBNR) claims based on historical development patterns.
+* Visualized cumulative paid losses and developed development factor matrices to forecast future liabilities.
+* Built interactive Python notebooks to compute and display key actuarial insights for use in reserving and financial reporting.
+

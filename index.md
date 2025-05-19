@@ -4,7 +4,6 @@ layout: home
 
 # Personal Project
 
-
 # [Continuous Time Markov Regime Switching for Ethereum / USDC Liquidity Pool Analysis](https://github.com/aboyle3100/Optimal-Liquidity-Pool-Range/tree/main/uniswap_analysis)
 * Extended Black Scholes formula for asset pricing to Ethereum to evaluate liquidity pool ranges.
 * Applied Markov Switching Model to simulate regime changes in changes in asset price.

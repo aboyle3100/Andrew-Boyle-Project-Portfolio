@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Andrew Boyle
+title: Project Portfolio
 ---
 
 # Welcome to my project portfolio

@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Welcome to my project portfolio
+- # Welcome to my project portfolio
 Hello! I'm a data-driven thinker with a background in Mathematics and Economics, currently pursuing a Master's in Scientific Computing and Data Analysis for Financial Technologies at Durham University. This portfolio showcases a selection of my projects and analyses that blend statistical rigor, algorithmic thinking, and real-world application.
 
 Here, you'll find interactive notebooks, visual explorations, and end-to-end projects in areas such as machine learning, natural language processing, and financial modeling. Whether it's uncovering patterns in complex datasets or building tools to support decision-making, my goal is to create work that’s both insightful and impactful.

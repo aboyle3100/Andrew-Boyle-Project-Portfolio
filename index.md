@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Project Portfolio
 ---
 
 # Welcome to my project portfolio

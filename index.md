@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Andrew Boyle
+---
 
 # Welcome to my project portfolio
 Hello! I'm a data-driven thinker with a background in Mathematics and Economics, currently pursuing a Master's in Scientific Computing and Data Analysis for Financial Technologies at Durham University. This portfolio showcases a selection of my projects and analyses that blend statistical rigor, algorithmic thinking, and real-world application.
